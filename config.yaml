@@ -289,10 +289,10 @@ params:
     title: Our Clients
   contact_form_ajax: no
   contact_url: /contact
-  copyright: Copyright (c) 2015 - 2016, YourCompany; all rights reserved.
+  copyright: Copyright (c) 2022, Fire Place Cash, LLC; all rights reserved.
   date_format: January 2, 2006
   default_sharing_image: img/sharing-default.png
-  defaultDescription: Site template made by Devcows using Hugo
+  defaultDescription: Champagne Taste, Beer Budget
   defaultKeywords:
     - devcows
     - hugo
@@ -341,7 +341,7 @@ params:
       about us.
     title: Testimonials
   topbar:
-    enable: yes
+    enable: no
     text: "<p class=\"hidden-sm hidden-xs\">Contact us on +420 777 555 333 or hello@universal.com.</p>\n
       \     <p class=\"hidden-md hidden-lg\"><a href=\"tel:+420 777 555 333\" data-animate-hover=\"pulse\"><i
       class=\"fas fa-phone\"></i></a>\n      <a href=\"mailto:hello@universal.com\"
