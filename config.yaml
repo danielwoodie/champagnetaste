@@ -1,5 +1,5 @@
 baseurl: https://champagnetastebeerbudget.page/
-title: Universal
+title: Champagne Taste Beer Budget
 theme: hugo-universal-theme
 languageCode: en-us
 defaultContentLanguage: en
@@ -14,26 +14,6 @@ menu:
       name: Home
       url: /
       weight: 1
-    - name: 'Option 1: Default Page'
-      parent: menu.home
-      url: /
-      weight: 1
-    - name: 'Option 2: Application'
-      parent: menu.home
-      url: /
-      weight: 2
-    - name: 'Option 3: Startup'
-      parent: menu.home
-      url: /
-      weight: 3
-    - name: 'Option 4: Agency'
-      parent: menu.home
-      url: /
-      weight: 4
-    - name: 'Option 5: Portfolio'
-      parent: menu.home
-      url: /
-      weight: 5
     - identifier: menu.features
       name: Features
       url: /img/template-easy-customize.png
