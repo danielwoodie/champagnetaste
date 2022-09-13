@@ -144,67 +144,67 @@ menu:
       weight: 1
 
 
-    - identifier: menu.allpages
-      name: All Pages
+    - identifier: menu.projects
+      name: Projects
       url: ''
       weight: 4
     - identifier: section.ap-home
       name: Home
-      parent: menu.allpages
+      parent: menu.projects
       post: 1
       url: ''
       weight: 1
     - identifier: section.ap-about
       name: About
-      parent: menu.allpages
+      parent: menu.projects
       post: 1
       url: ''
       weight: 2
     - identifier: section.ap-marketing
       name: Marketing
-      parent: menu.allpages
+      parent: menu.projects
       post: 1
       url: ''
       weight: 3
     - identifier: section.ap-portfolio
       name: Portfolio
-      parent: menu.allpages
+      parent: menu.projects
       post: 2
       url: ''
       weight: 1
     - identifier: section.ap-userpages
       name: User Pages
-      parent: menu.allpages
+      parent: menu.projects
       post: 2
       url: ''
       weight: 2
     - identifier: section.ap-shop
       name: Shop
-      parent: menu.allpages
+      parent: menu.projects
       post: 3
       url: ''
       weight: 1
     - identifier: section.ap-shoporderprocess
       name: Shop - Order Process
-      parent: menu.allpages
+      parent: menu.projects
       post: 3
       url: ''
       weight: 2
     - identifier: section.ap-contact
       name: Contact
-      parent: menu.allpages
+      parent: menu.projects
       post: 4
       url: ''
       weight: 1
     - identifier: section.ap-pages
       name: Pages
-      parent: menu.allpages
+      parent: menu.projects
       post: 4
       url: ''
       weight: 2
     - identifier: section.ap-blog
       name: Blog
-      parent: menu.allpages
+      parent: menu.projects
       post: 4
       url: /blog/
       weight: 3
