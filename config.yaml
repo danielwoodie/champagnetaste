@@ -4,7 +4,7 @@ theme: hugo-universal-theme
 languageCode: en-us
 defaultContentLanguage: en
 disqusShortname: devcows
-googleAnalytics: ''
+googleAnalytics: 'G-2EBQ1L289Y'
 summaryLength: 70
 paginate: 10
 pluralizelisttitles: no
