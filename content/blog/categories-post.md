@@ -15,6 +15,7 @@ tags:
 title: Categories Post
 ---
 
+
 I'm a post with multiple categories in the frontmatter:
 
     categories = ["programming","lorem","pseudo"]
